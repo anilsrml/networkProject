@@ -1,0 +1,24 @@
+Bu bir test dosyasıdır.
+
+Bilgisayar Ağları Dönem Projesi
+Güvenli Dosya Transferi Testi
+
+📁 Dosya Transfer Özellikleri:
+- RSA 2048-bit asimetrik şifreleme
+- AES 256-bit simetrik şifreleme  
+- SHA-256 hash doğrulama
+- Dijital imza kontrolü
+
+🔐 Güvenlik Bilgileri:
+- End-to-end şifreleme
+- Perfect Forward Secrecy
+- Man-in-the-middle koruması
+- Integrity verification
+
+Test tarihi: 2024
+Dosya boyutu: ~500 bytes
+
+Bu dosya güvenli bir şekilde şifrelenmiş olarak transfer edilecek
+ve result_test klasörüne otomatik olarak kaydedilecektir.
+
+✅ Test başarılı olursa dosya bütünlüğü korunmuş demektir. 

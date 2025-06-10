@@ -1,0 +1,8 @@
+scapy==2.5.0
+cryptography==41.0.7
+matplotlib==3.7.2
+numpy==1.24.3
+psutil==5.9.5
+netifaces==0.11.0
+ping3==4.0.4
+speedtest-cli==2.1.3 
