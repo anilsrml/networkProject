@@ -28,19 +28,6 @@ Bu proje, güvenli dosya transferi, ağ analizi, paket inceleme ve güvenlik tes
 - **Güvenlik Açığı Analizi**: Otomatik vulnerability scanning
 - **Koruma Önerileri**: Firewall ve güvenlik yapılandırma tavsiyeleri
 
-  Proje Klasör Yapısı:
-projebilgisaayaraglari/
-├── main.py                 # Ana uygulama giriş noktası
-├── file_transfer.py        # Güvenli dosya transfer modülü
-├── network_monitor.py      # Ağ izleme modülü
-├── packet_analyzer.py      # Paket analizi modülü
-├── security_tests.py       # Güvenlik test modülü
-├── setup_test.py          # Test ortamı yönetimi
-├── requirements.txt       # Python bağımlılıkları
-├── result_test/          # Transfer edilen dosyalar
-├── logs/                 # Log dosyaları
-└── README.md            # Proje dokümantasyonu
-
 ## 📋 Gereksinimler
 
 ### Python Sürümü
