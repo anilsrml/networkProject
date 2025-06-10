@@ -4,25 +4,25 @@ Bu proje, güvenli dosya transferi, ağ analizi, paket inceleme ve güvenlik tes
 
 ## 🚀 Özellikler
 
-### 📁 Güvenli Dosya Transferi
+###  Güvenli Dosya Transferi
 - **RSA + AES Hibrit Şifreleme**: 2048-bit RSA ile anahtar değişimi, 256-bit AES ile veri şifreleme
 - **Dijital İmza**: SHA-256 hash ile dosya bütünlük kontrolü
 - **Büyük Dosya Desteği**: Parçalı transfer ve ilerleme takibi
 - **Sunucu/İstemci Mimarisi**: Esnek bağlantı seçenekleri
 
-### 📊 Ağ Performans Monitörü
+###  Ağ Performans Monitörü
 - **Gerçek Zamanlı İzleme**: Ping, bant genişliği, paket kaybı ölçümü
 - **Görsel Grafikler**: Matplotlib ile performans grafikleri
 - **Ağ Arayüzü Analizi**: Aktif bağlantılar ve istatistikler
 - **Otomatik Raporlama**: Detaylı performans logları
 
-### 🔍 Paket Analizi
+###  Paket Analizi
 - **TCP/IP Paket İnceleme**: Scapy ile detaylı paket analizi
 - **Protokol Filtreleme**: TCP, UDP, ICMP, ARP protokol desteği
 - **Trafik İstatistikleri**: Port analizi ve IP iletişim haritası
 - **Real-time Capture**: Canlı paket yakalama ve analiz
 
-### 🔐 Güvenlik Testleri
+###  Güvenlik Testleri
 - **MITM Simülasyonu**: ARP spoofing, DNS spoofing, SSL strip
 - **Port Tarama**: TCP/UDP port tarama ve servis tespiti
 - **Güvenlik Açığı Analizi**: Otomatik vulnerability scanning
@@ -146,7 +146,7 @@ python main.py
 3. **Yetki**: Paket yakalama için admin/root yetkisi gereklidir
 4. **Sorumluluk**: Kötüye kullanımdan kullanıcı sorumludur
 
-## 🐛 Bilinen Sorunlar
+##  Bilinen Sorunlar
 
 1. **Windows Defender**: Ağ araçları false positive verebilir
 2. **Firewall**: Port dinleme izinleri gerekebilir
@@ -167,16 +167,12 @@ python main.py
 - Web interface
 - API endpoints
 
-## 🤝 Katkıda Bulunma
+##  Katkıda Bulunma
 
 1. Fork yapın
 2. Feature branch oluşturun
 3. Değişikliklerinizi commit edin
 4. Pull request gönderin
-
-## 📝 Lisans
-
-Bu proje eğitim amaçlı geliştirilmiştir. Ticari kullanım için izin gereklidir.
 
 ## 👨‍💻 Geliştirici
 
@@ -187,8 +183,8 @@ Bu proje eğitim amaçlı geliştirilmiştir. Ticari kullanım için izin gerekl
 ## 📞 İletişim
 
 Sorularınız için:
-- Email: [email]
-- GitHub Issues: Teknik sorunlar için
+- Email: anilsurmeli2@gmail.com
+
 
 ---
 
